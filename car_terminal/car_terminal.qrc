@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>car_terminall/backcar.png</file>
+        <file>car_terminall/browser.png</file>
+        <file>car_terminall/light0.png</file>
+        <file>car_terminall/light1.png</file>
+        <file>car_terminall/temperature.png</file>
+        <file>car_terminall/wifi.png</file>
+        <file>car_terminall/folder.png</file>
+        <file>car_terminall/instructions.png</file>
+        <file>car_terminall/set.png</file>
+        <file>car_terminall/map.png</file>
+        <file>car_terminall/music.png</file>
+        <file>car_terminall/radio.png</file>
+        <file>car_terminall/video.png</file>
+        <file>car_terminall/weather.png</file>
+        <file>car_terminall/bizi.png</file>
+        <file>car_terminall/init.png</file>
+    </qresource>
+</RCC>

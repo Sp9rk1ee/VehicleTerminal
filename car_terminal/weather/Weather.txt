@@ -1,0 +1,13 @@
+SOURCES += \
+    ./Weather/Weather.cpp \
+    ./Weather/wforcast.cpp
+
+HEADERS += \
+    ./Weather/Weather.h \
+    ./Weather/wforcast.h
+
+RESOURCES += \
+    $$PWD/img.qrc
+
+FORMS += \
+     $$PWD/Weather.ui

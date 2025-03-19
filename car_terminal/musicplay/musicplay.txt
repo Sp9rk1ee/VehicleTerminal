@@ -1,0 +1,10 @@
+SOURCES += \
+    ./musicplay/musicplay.cpp \
+    ./musicplay/lyric.cpp
+
+HEADERS += \
+    ./musicplay/musicplay.h \
+    ./musicplay/lyric.h
+
+RESOURCES += \
+    $$PWD/res.qrc

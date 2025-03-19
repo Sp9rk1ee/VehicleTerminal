@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/under_page.png</file>
+        <file>img/on_page.png</file>
+        <file>img/refresh_page.png</file>
+        <file>img/folder.png</file>
+        <file>img/other_file.png.png</file>
+    </qresource>
+</RCC>

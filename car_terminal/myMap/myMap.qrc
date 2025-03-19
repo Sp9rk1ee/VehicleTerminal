@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/direction.png</file>
+        <file>img/magnify.png</file>
+        <file>img/reduce.png</file>
+        <file>img/search.png</file>
+        <file>img/site.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/qing.png</file>
+        <file>img/baoxue.png</file>
+        <file>img/baoyu.png</file>
+        <file>img/bingbao.png</file>
+        <file>img/daxue.png</file>
+        <file>img/dayu.png</file>
+        <file>img/duoyun.png</file>
+        <file>img/leizhenyu.png</file>
+        <file>img/mai.png</file>
+        <file>img/wu.png</file>
+        <file>img/xiaoxue.png</file>
+        <file>img/xiaoyu.png</file>
+        <file>img/yin.png</file>
+        <file>img/yujiaxue.png</file>
+        <file>img/zhongxue.png</file>
+        <file>img/zhongyu.png</file>
+        <file>img/next_press.png</file>
+        <file>img/previous_press.png</file>
+        <file>img/search.png</file>
+        <file>img/city.png</file>
+    </qresource>
+</RCC>

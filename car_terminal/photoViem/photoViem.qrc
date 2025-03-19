@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photoViem/next_hover.png</file>
+        <file>photoViem/previous_hover.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/music_pic/btn_favorite_no.png</file>
+        <file>images/music_pic/btn_favorite_yes.png</file>
+        <file>images/music_pic/btn_listcircle1.png</file>
+        <file>images/music_pic/btn_listcircle2.png</file>
+        <file>images/music_pic/btn_menu1.png</file>
+        <file>images/music_pic/btn_menu2.png</file>
+        <file>images/music_pic/btn_next1.png</file>
+        <file>images/music_pic/btn_next2.png</file>
+        <file>images/music_pic/btn_pause1.png</file>
+        <file>images/music_pic/btn_pause2.png</file>
+        <file>images/music_pic/btn_play1.png</file>
+        <file>images/music_pic/btn_play2.png</file>
+        <file>images/music_pic/btn_previous1.png</file>
+        <file>images/music_pic/btn_previous2.png</file>
+        <file>images/music_pic/btn_volume1.png</file>
+        <file>images/music_pic/btn_volume2.png</file>
+        <file>images/music_pic/cd.png</file>
+        <file>images/music_pic/handle.png</file>
+        <file>images/music_pic/mask.png</file>
+        <file>images/music_pic/sub-page.png</file>
+        <file>images/bg.png</file>
+        <file>images/video_pic/bg.png</file>
+        <file>images/music_pic/btn_listjump.png</file>
+        <file>images/music_pic/btn_listrandom.png</file>
+        <file>images/music_pic/btn_listsingle.png</file>
+        <file>images/music_pic/sub-page1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>switch/switch.gif</file>
+        <file>switch/stop.png</file>
+        <file>switch/start.png</file>
+    </qresource>
+</RCC>
